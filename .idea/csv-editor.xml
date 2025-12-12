@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\.venv\Ammonia\100_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\20_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\40_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\60_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\80_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\AMONIA R1\100_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\AMONIA R1\20_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\AMONIA R1\40_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\AMONIA R1\60_lOAD R1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\AMONIA R1\60_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\AMONIA R1\80_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\KOB\100_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\KOB\20_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\KOB\40_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\KOB\60_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\KOB\80_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load1 Kg_ RPM1415 _20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load1 Kg_ RPM1421 _0_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load1 Kg_ RPM1437 _20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load10 Kg_ RPM1439 _100_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load3 Kg_ RPM1421 _40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load3 Kg_ RPM1429 _40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load6 Kg_ RPM1452 _060_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\03 Aug 2024 _ Load8 Kg_ RPM1442 _80_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\100_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\20_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\40_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\60_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\80_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load10 Kg_ RPM1433 _4                                 100 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load10 Kg_ RPM1438 _4                                 100 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load2 Kg_ RPM1448 _20 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load3 Kg_ RPM1446 _40 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load5 Kg_ RPM1444 _4                                 60 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load8 Kg_ RPM1442 _4                                 100 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\03 Aug 2024 _ Load8 Kg_ RPM1444 _4                                 80 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\100_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\20_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\40_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\60_lOAD R1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\60_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\80_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Observation Report20 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Observation Report4                                 100 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Observation Report4                                 60 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Observation Report4                                 80 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Observation Report40 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Performance Report20 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Performance Report4                                 100 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Performance Report4                                 60 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Performance Report4                                 80 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\AMONIA R1\Performance Report40 _ LOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\03 Aug 2024 _ Load1 Kg_ RPM1448 _20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\03 Aug 2024 _ Load4 Kg_ RPM1444 _40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\03 Aug 2024 _ Load5 Kg_ RPM1445 _60_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\03 Aug 2024 _ Load7 Kg_ RPM1437 _80_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\03 Aug 2024 _ Load9 Kg_ RPM1432 _100_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\100_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\20_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\40_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\60_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\80_lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Observation Report100_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Observation Report20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Observation Report40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Observation Report60_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Observation Report80_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Performance Report100_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Performance Report20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Performance Report40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Performance Report60_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\KOB\Performance Report80_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Observation Report060_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Observation Report100_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Observation Report20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Observation Report40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Observation Report80_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Performance Report060_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Performance Report100_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Performance Report20_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Performance Report40_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\.venv\Ammonia\converted_csvs\Performance Report80_ lOAD.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
